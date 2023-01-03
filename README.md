@@ -1,4 +1,4 @@
-<h5> 📺 A simple script where you can see the online chat in your terminal </h5>
+<h1> 📺 A simple script where you can see the online chat in your terminal </h5>
 <hr>
 <pre class="notranslate"><code>$ pip install chat_downloader</code></pre>
 <hr>
